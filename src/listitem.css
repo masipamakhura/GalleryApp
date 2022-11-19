@@ -1,0 +1,15 @@
+
+.card{
+    width: min-content;
+    max-height: max-content;
+    border: 1px solid #7e7e7e7e;
+    border-radius: 3px;;
+}
+.picture-container{
+    height: 100%;
+    object-fit: cover;
+    width: min-content;
+}
+.list-picture{
+    width:200px;
+}

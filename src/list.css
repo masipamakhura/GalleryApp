@@ -1,0 +1,8 @@
+.image-list{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:30px;
+
+    width: 1200px;
+    margin:0 auto;
+}
